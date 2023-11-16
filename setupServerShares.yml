@@ -1,0 +1,21 @@
+---
+-name: Create pirates.xls file
+ host: [filereposervers-east;filereposservers-west]
+ task:
+   - title: Ensure Git is installed, if it is installed, it should not be upgraded
+     apt:
+       name: git
+       state: 
+
+    - title: Ensure jq is up-to-date with the most recent version
+      apt:
+        name: jq
+        state: 
+
+    - title: Ensure /usr/local/accounting directory exists and only the owner and the owner group has full access to it, no other users have any access
+      file:
+        
+    - title: Create pirates.xls file
+      file:
+        path: /usr/local/accounting/pirates.xls
+

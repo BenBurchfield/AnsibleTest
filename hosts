@@ -1,0 +1,27 @@
+#GenerativeAI tools such as ChatGPT can NOT be used on this section of the exam#
+
+#Please make corrections to the entries below#
+[production-east]
+192.168.1.101
+192.168.1.102
+192.168.1.103
+[production-east;var]
+ansible-user= root
+ansible-password=PurpleMountain    
+
+[production-west]
+192.168.2.101
+192.168.2.102
+192.168.2.103
+[production-west:var]
+anisble-user= root
+anisble-password=PurpleMountain    
+
+[production-north}
+192.168.3.10.1
+[producton-north:var]
+ansible-user=root
+ansible-password= PurpleMountain
+
+# add another host group for production-south with a single host with an ip address of 192.168.200.4
+# make sure to include the variables for this group too

@@ -1,0 +1,43 @@
+Generative AI / ChatGPT can NOT be used on this section of the exam
+This section of the exam is worth 30 pts
+
+1.  In the DevOps LinkedIn Learning course, what was the analogy that the speakers used to describe how
+    servers had been treated in the past and how they should now be treated?  Please explain the analogy. 3 pts
+A.  
+
+---------------------------
+2.  Given a URL of https://swollenhippo.com/ReliableVehicles/inventory.php?APIKey=Mickey2022!&Make=Ford, 
+    what one line command in the Linux CLI would allow you to capture the Model of the second object in the
+    returned array and append it to a file called RecentMakeSearches.log.  NOTE:  You may NOT use grep for this
+    question. 6 pts
+A.  
+
+---------------------------
+3.  What one line command would allow you to create a new repository in the current directory with a default
+    branch of 'production' AND also create/checkout a new branch called 'PeanutButterPizza'? 6 pts
+A.  
+
+---------------------------
+4.  We have discussed DHCP and its use in the GCP environment, can you explain why Google is using DHCP and what
+    that means? 2pts
+A.
+
+---------------------------
+5.  The term CI/CD is discussed a lot in DevOps.  What does it stand for and how is it used? 3 pts
+A.
+
+---------------------------
+6.  What is the name that we refer to the character set '#!' in bash as? 2 pts
+A.  
+
+---------------------------
+7.  Ansible is an automation tool that relies on what protocol to communicate with other hosts and devices? 3 pts
+A.
+
+---------------------------
+8.  What are the 3 advantages of infrastucture as code? 3 pts
+A.  
+
+---------------------------
+9. Feel free to express anger here. 2 pts
+A.  
