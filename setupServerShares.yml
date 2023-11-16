@@ -1,4 +1,9 @@
 ---
+# You may NOT use generative on this portion of the exam
+# Please correct this playbook.  There are many issues that the
+# contracted giraffe added, and some sections missing information
+# HINT:  There is information in the instructions on Teams that is VERY
+# important to an error in this playbook
 -name: Create pirates.xls file
  host: [filereposervers-east;filereposservers-west]
  task:
@@ -17,5 +22,5 @@
         
     - title: Create pirates.xls file
       file:
-        path: /usr/local/accounting/pirates.xls
+        path: \usr\local\accounting\pirates.xls
 
